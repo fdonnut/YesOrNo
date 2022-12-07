@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Да или Нет</string>
+    <string name="ed_question_hint">Задай вопрос</string>
+    <string name="btn_answer">Ответ</string>
+    <string name="empty_field">Пустое поле!</string>
+    <string name="error_loading">Ошибка загрузки</string>
+    <string name="answer_yes">да</string>
+    <string name="answer_no">нет</string>
+</resources>

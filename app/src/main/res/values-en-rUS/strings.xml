@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yes Or No</string>
+    <string name="ed_question_hint">Ask the question…</string>
+    <string name="btn_answer">Answer</string>
+    <string name="empty_field">Empty field!</string>
+    <string name="error_loading">Error loading the image</string>
+    <string name="answer_yes">yes</string>
+    <string name="answer_no">no</string>
+</resources>
